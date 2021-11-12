@@ -92,11 +92,14 @@
        padding: 50px 0px 0 0;
        background-color: #231B53;
      }
+     .footer-logo {
+       margin-bottom: 20px;
+     }
      .footer .footer-container p  {
        color: white;
      }
 
-     .footer .footer-container h4 {
+     .footer .footer-container h5 {
        color: #BD1550;
      }
 

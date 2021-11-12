@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <>
         <Menu/>
-        <h1>Sample</h1>
         <Footer/>
     </>
   )
